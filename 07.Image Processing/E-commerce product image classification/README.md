@@ -1,11 +1,7 @@
 # E-commerce Product Image Classification
-<<<<<<< HEAD
-</br>
-=======
 
 </br>
 
->>>>>>> fb461d1b4ac533a466de43db552bc663492c4419
 ## Table of contents
 - [Introduction](#Introduction)
 - [Dataset](#Dataset)
@@ -88,5 +84,3 @@ I would like to express my sincere gratitude to the following individuals and or
 Lastly, I would like to extend my thanks to the readers of this README file. Your interest and engagement are greatly appreciated. If you have any questions, suggestions or feedback, please feel free to [reach out](https://t.me/afsharino "afsharino-telegram").
 
 made with love by [afsharino](https://github.com/afsharino "afsharino") & [ChatGPT](https://chat.openai.com/ "ChatGPT") :purple_heart:
-=======
->>>>>>> fb461d1b4ac533a466de43db552bc663492c4419
