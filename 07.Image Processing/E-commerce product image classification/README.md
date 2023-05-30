@@ -60,7 +60,7 @@ Please note that this project serves as an example and a starting point for furt
 ## Acknowledgements
 I would like to express my sincere gratitude to the following individuals and organizations for their contributions and support throughout this project:
 
-- ***Mahdi Nasehiyan***: Special Thanks to my dear friend [Mahdi](https://github.com/iminsightman "mahdi-github"). for providing guidance, expertise, and valuable feedback during the internship. Your insights have been instrumental in the development of this project.
+- ***Mahdi Nasehiyan***: Special Thanks to my dear friend [Mahdi](https://github.com/iminsightman "mahdi-github"), for providing guidance, expertise, and valuable feedback during the internship. Your insights have been instrumental in the development of this project.
 
 - ***ICDS***: I would like to thank the [ICDS](https://icds.ai/ "icds-websitr") company for organizing the internship program and providing the opportunity to work on real-world projects and gain experience.
 
